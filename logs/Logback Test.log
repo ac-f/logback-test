@@ -1,0 +1,44 @@
+2022-08-09 17:03:01,579 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogbackTestApplication using Java 11.0.2 on DESKTOP-IFNJ0ED with PID 30568 (C:\Users\fanta\test\logback-test\build\classes\java\main started by fanta in C:\Users\fanta\test\logback-test)
+2022-08-09 17:03:01,582 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-08-09 17:03:02,093 TRACE com.acf.logbacktest.Log1Service [main] Trace log
+2022-08-09 17:03:02,093 DEBUG com.acf.logbacktest.Log1Service [main] Debug log
+2022-08-09 17:03:02,094 INFO com.acf.logbacktest.Log1Service [main] Info Log
+2022-08-09 17:03:02,094 WARN com.acf.logbacktest.Log1Service [main] Warn Log
+2022-08-09 17:03:02,095 ERROR com.acf.logbacktest.Log1Service [main] Error Log
+2022-08-09 17:03:02,095 INFO com.acf.logbacktest.Log2Service [main] Info Log
+2022-08-09 17:03:02,095 WARN com.acf.logbacktest.Log2Service [main] Warn Log
+2022-08-09 17:03:02,096 ERROR com.acf.logbacktest.Log2Service [main] Error Log
+2022-08-09 17:03:02,201 INFO org.springframework.boot.StartupInfoLogger [main] Started LogbackTestApplication in 1.122 seconds (JVM running for 2.685)
+2022-08-09 17:03:54,935 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogbackTestApplication using Java 11.0.2 on DESKTOP-IFNJ0ED with PID 20544 (C:\Users\fanta\test\logback-test\build\classes\java\main started by fanta in C:\Users\fanta\test\logback-test)
+2022-08-09 17:03:54,939 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-08-09 17:03:55,469 TRACE com.acf.logbacktest.Log1Service [main] Trace log
+2022-08-09 17:03:55,470 DEBUG com.acf.logbacktest.Log1Service [main] Debug log
+2022-08-09 17:03:55,470 INFO com.acf.logbacktest.Log1Service [main] Info Log
+2022-08-09 17:03:55,477 WARN com.acf.logbacktest.Log1Service [main] Warn Log
+2022-08-09 17:03:55,478 ERROR com.acf.logbacktest.Log1Service [main] Error Log
+2022-08-09 17:03:55,478 INFO com.acf.logbacktest.Log2Service [main] Info Log
+2022-08-09 17:03:55,479 WARN com.acf.logbacktest.Log2Service [main] Warn Log
+2022-08-09 17:03:55,479 ERROR com.acf.logbacktest.Log2Service [main] Error Log
+2022-08-09 17:03:55,587 INFO org.springframework.boot.StartupInfoLogger [main] Started LogbackTestApplication in 1.105 seconds (JVM running for 2.246)
+2022-08-09 17:41:50,063 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogbackTestApplication using Java 11.0.2 on DESKTOP-IFNJ0ED with PID 20332 (C:\Users\fanta\test\logback-test\build\classes\java\main started by fanta in C:\Users\fanta\test\logback-test)
+2022-08-09 17:41:50,066 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-08-09 17:41:50,587 TRACE com.acf.logbacktest.Log1Service [main] Trace log
+2022-08-09 17:41:50,588 DEBUG com.acf.logbacktest.Log1Service [main] Debug log
+2022-08-09 17:41:50,588 INFO com.acf.logbacktest.Log1Service [main] Info Log
+2022-08-09 17:41:50,588 WARN com.acf.logbacktest.Log1Service [main] Warn Log
+2022-08-09 17:41:50,588 ERROR com.acf.logbacktest.Log1Service [main] Error Log
+2022-08-09 17:41:50,589 INFO com.acf.logbacktest.Log2Service [main] Info Log
+2022-08-09 17:41:50,590 WARN com.acf.logbacktest.Log2Service [main] Warn Log
+2022-08-09 17:41:50,590 ERROR com.acf.logbacktest.Log2Service [main] Error Log
+2022-08-09 17:41:50,780 INFO org.springframework.boot.StartupInfoLogger [main] Started LogbackTestApplication in 1.187 seconds (JVM running for 2.746)
+2022-08-09 17:42:06,470 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogbackTestApplication using Java 11.0.2 on DESKTOP-IFNJ0ED with PID 27784 (C:\Users\fanta\test\logback-test\build\classes\java\main started by fanta in C:\Users\fanta\test\logback-test)
+2022-08-09 17:42:06,474 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-08-09 17:42:07,072 TRACE com.acf.logbacktest.Log1Service [main] Trace log
+2022-08-09 17:42:07,080 DEBUG com.acf.logbacktest.Log1Service [main] Debug log
+2022-08-09 17:42:07,080 INFO com.acf.logbacktest.Log1Service [main] Info Log
+2022-08-09 17:42:07,081 WARN com.acf.logbacktest.Log1Service [main] Warn Log
+2022-08-09 17:42:07,081 ERROR com.acf.logbacktest.Log1Service [main] Error Log
+2022-08-09 17:42:07,082 INFO com.acf.logbacktest.Log2Service [main] Info Log
+2022-08-09 17:42:07,083 WARN com.acf.logbacktest.Log2Service [main] Warn Log
+2022-08-09 17:42:07,083 ERROR com.acf.logbacktest.Log2Service [main] Error Log
+2022-08-09 17:42:07,214 INFO org.springframework.boot.StartupInfoLogger [main] Started LogbackTestApplication in 1.466 seconds (JVM running for 3.043)

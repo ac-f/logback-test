@@ -1,0 +1,4 @@
+#logging:
+#  level:
+#    com.acf.logbacktest.Log1Service: trace
+#    com.acf.logbacktest.Log2Service: info
